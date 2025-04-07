@@ -4,7 +4,7 @@ This workshop is designed for collaborative learning. You and a partner will wor
 
 ---
 
-## 👥 Peer Coding Roles: Driver and Navigator
+## Peer Coding Roles: Driver and Navigator
 
 | Role                | Description                                                                                 |
 | ------------------- | ------------------------------------------------------------------------------------------- |
@@ -17,13 +17,13 @@ This workshop is designed for collaborative learning. You and a partner will wor
 
 ---
 
-## 🛠️ How to Work Together on GitHub
+## How to Work Together on GitHub
 
 ### Option 1 (Recommended): One Fork per Pair
 
 This approach allows both students to collaborate in a single GitHub repository.
 
-### 👣 Step-by-Step Instructions:
+### Step-by-Step Instructions:
 
 1. **One student forks the main repository**
 
@@ -60,7 +60,7 @@ This approach allows both students to collaborate in a single GitHub repository.
 
 ---
 
-## 💻 Alternative: Screen Share or Live Share
+## Alternative: Screen Share or Live Share
 
 If you're unable to share access or working remotely, try this:
 
@@ -71,7 +71,7 @@ If you're unable to share access or working remotely, try this:
 
 ---
 
-## 🧠 Best Practices
+## Best Practices
 
 - Review TODOs and instructions together before starting
 - Use `console.log()` to debug and explain what’s happening
@@ -85,7 +85,7 @@ If you're unable to share access or working remotely, try this:
 
 ---
 
-## ✅ Summary
+## Summary
 
 | Task                      | Who       | Description                            |
 | ------------------------- | --------- | -------------------------------------- |
